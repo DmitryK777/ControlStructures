@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-#define CHESS_1
-//#define CHESS_2
+//#define CHESS_1
+#define CHESS_2
 
 #define SPACE "\t\t\t"
 
